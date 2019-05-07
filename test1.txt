@@ -6,3 +6,5 @@ the second times.
 add remote.
 
 我重启了git，测试再次推送到远程是否需要额外的操作
+
+分支冲突测试s
