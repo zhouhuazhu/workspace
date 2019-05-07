@@ -2,4 +2,8 @@ this is test4.
 44444444444444
 Hello world!
 
+<<<<<<< HEAD
 我修改test4为狮子
+=======
+我在4这里改这个文件
+>>>>>>> ef48d839a22913ecdd9c90c58778d6a43df26bf7
